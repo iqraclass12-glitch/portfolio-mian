@@ -1,6 +1,6 @@
 {
   "personal": {
-    "name": "krishna kant singh",
+    "name": "krishna singh",
     "profileImage": "/krishna.png",
     "about": "Hey, I am a freelancer and make automation and make tools for my client to make their life easy. And also make websites for e-commerce and portfolio And customize tool for institution and personal work .",
     "email": "alex@example.com"
@@ -12,7 +12,7 @@
     "java",
     "csharp",
     "cpp",
-    "c",
+  
     "php",
     "ruby",
     "go",
@@ -154,14 +154,7 @@
     "clickup"
   ],
   "links": [
-    {
-      "id": "primary-style",
-      "label": "Primary Style",
-      "url": "https://argonix.eu",
-      "style": "primary",
-      "icon": "⭐"
-    },
-    {
+   {
       "id": "accent-style",
       "label": "Accent Style",
       "url": "https://argonix.eu",
