@@ -7,6 +7,7 @@ import { Badge } from "@/components/ui/badge"
 import { cn } from "@/lib/utils"
 import portfolioConfig from "@/config/portfolio.json"
 import skillsDatabase from "@/config/skills-database.json"
+import { ElevenLabsConvai } from "@/components/elevenlabs"
 
 interface SkillTag {
   id: string
@@ -332,6 +333,8 @@ export default function Portfolio() {
           </div>
         </div>
       )}
+
+      <ElevenLabsConvai />
 
       <footer className="fixed bottom-0 left-0 right-0 bg-background/80 backdrop-blur-sm border-t border-primary/20 py-4 dark:shadow-white-glow light:shadow-black-deep">
         <div className="text-center">
