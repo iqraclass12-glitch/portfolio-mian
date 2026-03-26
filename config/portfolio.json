@@ -228,9 +228,9 @@
       "type": "gallery",
       "action": "popup",
       "images": [
-        "/placeholder.svg?height=400&width=600",
-        "/placeholder.svg?height=400&width=600",
-        "/placeholder.svg?height=400&width=600"
+        "/ecommerce-app.png",
+        "/ecommerce-app.png",
+        "/ecommerce-app.png"
       ]
     },
     {
@@ -239,7 +239,7 @@
       "timestamp": "2023-12-10",
       "type": "single",
       "action": "popup",
-      "images": ["/placeholder.svg?height=500&width=300"]
+      "images": ["/mobile-app.png"]
     },
     {
       "id": "3d-model",
@@ -248,7 +248,7 @@
       "type": "single",
       "action": "link",
       "url": "https://sketchfab.com/3d-models/character",
-      "images": ["/placeholder.svg?height=400&width=400"]
+      "images": ["/3d-model.jpg"]
     }
   ]
 }
